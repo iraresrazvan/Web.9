@@ -11,4 +11,7 @@ Article.prototype.save = function(articleData) {
 Article.prototype.update = function(data){
     //here we should save the data to the server
     //do an AJAX request or save it in the local storage
+    
+    
+    //djhfahsdfcj dhwqi h iuqfiewu uriuq weriuqhewfuhf gew guyeqwfuyqegw 
 };
